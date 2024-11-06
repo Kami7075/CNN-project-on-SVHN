@@ -1,5 +1,7 @@
 CNN Project on SVHN Dataset
+
 Overview
+
 This project implements a Convolutional Neural Network (CNN) to classify digits from the Street View House Numbers (SVHN) dataset. The model is designed to recognize real-world numeric data from house numbers in natural scene images, providing experience in image classification tasks and deep learning.
 
 Dataset
